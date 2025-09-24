@@ -135,8 +135,4 @@ I'm always interested in:
 - 💡 Innovative AI applications in healthcare and automotive
 
 
-Feel free to reach out for collaborations or just a tech chat!
-
----
-
-*"Transforming complex algorithms into real-world solutions, one system at a time."* 🚀
+Feel free to reach out for a tech chat!
