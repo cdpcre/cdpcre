@@ -14,7 +14,7 @@
 - Designed and implemented from scratch
 - Full C++ implementation for real-time embedded systems
 
-### 🚙 ** OCR Neural Network**
+### 🚙 **OCR Neural Network**
 - License plate recognition system for multiple countries
 - Handling complex edge cases
 - Fine-tuning for country-specific syntaxes
