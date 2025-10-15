@@ -8,11 +8,37 @@
 
 ---
 
-## 💻 Every day I spend my time here:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+## 🚀 Featured Projects
+
+### 🎯 **Autofocus Algorithm Development**
+- Designed and implemented from scratch
+- Full C++ implementation for real-time embedded systems
+
+### 🚙 ** OCR Neural Network**
+- License plate recognition system for multiple countries
+- Handling complex edge cases
+- Fine-tuning for country-specific syntaxes
+
+### 🏥 **Healthcare Predictive Analytics**
+- Multi-modal ML for patient risk stratification
+- Integration of CT imaging with clinical data
+- Published research in medical imaging journal (2021) (https://pubmed.ncbi.nlm.nih.gov/34596836/)
+
+### 📡 **FMCW Radar Classification System**
+- Machine Learning classifier for automotive radar signal processing
+- 96% classification accuracy with <250ms latency
+- Real-time processing of sensor readings
+
+---
+
+## 💼 Current Role: Algorithm Engineer @ Tattile srl
+- 🎯 Developing state-of-the-art **Computer Vision** algorithms for road surveillance applications
+- 🚗 Working on **Automotive AI** solutions (OCR, Detection)
+- 🔬 Research & implementation of cutting-edge **Deep Learning** models
+- ⚡ Optimizing algorithms for **embedded systems** deployment
+- 🌏 International projects
+
+---
 
 ## 🎯 My favorite programming languages:
 - **Python** 🐍 (6+ years experience in ML/DL applications)
@@ -58,47 +84,6 @@
 
 ---
 
-## 🎓 Education
-### 🧑‍🔬 **Master's Degree in Telecommunications Engineering**
-*Università degli Studi di Napoli Federico II*
-- **Grade:** 110/110 cum laude
-- **Thesis:** Image processing for computer vision and deep learning: building detection from aerial imagery using deep convolutional neural network
-- **Focus:** Python, Tensorflow, Signal Processing, Computer Vision, Embedded Systems, Deep Learning
-
----
-
-## 💼 Current Role: Algorithm Engineer @ Tattile srl
-- 🎯 Developing state-of-the-art **Computer Vision** algorithms for road surveillance applications
-- 🚗 Working on **Automotive AI** solutions (OCR, Detection)
-- 🔬 Research & implementation of cutting-edge **Deep Learning** models
-- ⚡ Optimizing algorithms for **embedded systems** deployment
-- 🌏 International projects
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 **Autofocus Algorithm Development**
-- Designed and implemented from scratch
-- Full C++ implementation for real-time embedded systems
-
-### 🚙 ** OCR Neural Network**
-- License plate recognition system for multiple countries
-- Handling complex edge cases
-- Fine-tuning for country-specific syntaxes
-
-### 🏥 **Healthcare Predictive Analytics**
-- Multi-modal ML for patient risk stratification
-- Integration of CT imaging with clinical data
-- Published research in medical imaging journal (2021) (https://pubmed.ncbi.nlm.nih.gov/34596836/)
-
-### 📡 **FMCW Radar Classification System**
-- Machine Learning classifier for automotive radar signal processing
-- 96% classification accuracy with <250ms latency
-- Real-time processing of sensor readings
-
----
-
 ## 📜 Certifications
 - 🏆 **Google Project Management Certificate** (2022)
 - 🎯 **Certified Scrum Product Owner (CSPO)** (2023)
@@ -125,4 +110,13 @@
 
 ---
 
-## 🤝 Let's Connect!
+## 🎓 Education
+### 🧑‍🔬 **Master's Degree in Telecommunications Engineering**
+*Università degli Studi di Napoli Federico II*
+- **Grade:** 110/110 cum laude
+- **Thesis:** Image processing for computer vision and deep learning: building detection from aerial imagery using deep convolutional neural network
+- **Focus:** Python, Tensorflow, Signal Processing, Computer Vision, Embedded Systems, Deep Learning
+
+---
+
+## 🤝 Let's Connect! Add me on LinkedIn 🦾
