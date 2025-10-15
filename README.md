@@ -82,7 +82,7 @@
 - Designed and implemented from scratch
 - Full C++ implementation for real-time embedded systems
 
-### 🚙 **Stark OCR Neural Network**
+### 🚙 ** OCR Neural Network**
 - License plate recognition system for multiple countries
 - Handling complex edge cases
 - Fine-tuning for country-specific syntaxes
@@ -115,24 +115,14 @@
 ## 📚 Currently Learning
 - 🔥 Advanced **Transformer architectures** for vision tasks
 - 🚀 **MLOps** best practices and deployment pipelines
-- 🧠 **Reinforcement Learning** for optimization problems
-- ☁️ Cloud platforms for ML (AWS, GCP)
+- 🧠 **WebApp** development to share models
 
 ---
 
 ## 🌐 Languages
 - 🇮🇹 **Italian** - Native
-- 🇬🇧 **English** - Professional proficiency (B1+)
-
+- 🇬🇧 **English** - Professional proficiency (B2+)
 
 ---
 
 ## 🤝 Let's Connect!
-I'm always interested in:
-- 🌟 Open source ML/DL projects
-- 🚀 Challenging computer vision projects
-- 🤖 Deep learning research collaborations
-- 💡 Innovative AI applications in healthcare and automotive
-
-
-Feel free to reach out for a tech chat!
