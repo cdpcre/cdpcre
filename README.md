@@ -120,3 +120,4 @@
 ---
 
 ## 🤝 Let's Connect! Add me on LinkedIn 🦾
+- https://linkedin.com/in/crescenzodepalma
