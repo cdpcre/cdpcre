@@ -8,29 +8,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎯 **Autofocus Algorithm Development**
-- Designed and implemented from scratch
-- Full C++ implementation for real-time embedded systems
-
-### 🚙 **OCR Neural Network**
-- License plate recognition system for multiple countries
-- Handling complex edge cases
-- Fine-tuning for country-specific syntaxes
-
-### 🏥 **Healthcare Predictive Analytics**
-- Multi-modal ML for patient risk stratification
-- Integration of CT imaging with clinical data
-- Published research in medical imaging journal (2021) (https://pubmed.ncbi.nlm.nih.gov/34596836/)
-
-### 📡 **FMCW Radar Classification System**
-- Machine Learning classifier for automotive radar signal processing
-- 96% classification accuracy with <250ms latency
-- Real-time processing of sensor readings
-
----
-
 ## 💼 Current Role: Algorithm Engineer @ Tattile srl
 - 🎯 Developing state-of-the-art **Computer Vision** algorithms for road surveillance applications
 - 🚗 Working on **Automotive AI** solutions (OCR, Detection)
@@ -81,6 +58,29 @@
 - **Tableau** - Interactive Dashboards
 - **Qlik Sense** - Data Visualization
 - **SQL** - Data Analysis & Querying
+
+---
+
+## 🚀 Projects managed
+
+### 🎯 **Autofocus Algorithm Development**
+- Designed and implemented from scratch
+- Full C++ implementation for real-time embedded systems
+
+### 🚙 **OCR Neural Network**
+- License plate recognition system for multiple countries
+- Handling complex edge cases
+- Fine-tuning for country-specific syntaxes
+
+### 🏥 **Healthcare Predictive Analytics**
+- Multi-modal ML for patient risk stratification
+- Integration of CT imaging with clinical data
+- Published research in medical imaging journal (2021) (https://pubmed.ncbi.nlm.nih.gov/34596836/)
+
+### 📡 **FMCW Radar Classification System**
+- Machine Learning classifier for automotive radar signal processing
+- 96% classification accuracy with <250ms latency
+- Real-time processing of sensor readings
 
 ---
 
