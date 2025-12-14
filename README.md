@@ -20,7 +20,6 @@
 ## 🎯 My favorite programming languages:
 - **Python** 🐍 (6+ years experience in ML/DL applications)
 - **C++** ⚡ (Embedded systems & real-time processing)
-- **MATLAB** 📊 (Signal processing & prototyping)
 
 ## 🤖 Machine Learning & Deep Learning Frameworks:
 ### Core ML/DL Tools:
@@ -54,11 +53,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 Business Intelligence & Analytics:
-- **Tableau** - Interactive Dashboards
-- **Qlik Sense** - Data Visualization
-- **SQL** - Data Analysis & Querying
-
 ---
 
 ## 🚀 Projects managed
@@ -84,12 +78,6 @@
 
 ---
 
-## 📜 Certifications
-- 🏆 **Google Project Management Certificate** (2022)
-- 🎯 **Certified Scrum Product Owner (CSPO)** (2023)
-
----
-
 ## 🌟 Professional Interests
 - **Edge AI & Embedded ML** - Pushing the boundaries of on-device intelligence
 - **Healthcare AI** - Predictive medicine and diagnostic assistance
@@ -104,18 +92,11 @@
 
 ---
 
-## 🌐 Languages
-- 🇮🇹 **Italian** - Native
-- 🇬🇧 **English** - Professional proficiency (B2+)
-
----
-
 ## 🎓 Education
 ### 🧑‍🔬 **Master's Degree in Telecommunications Engineering**
 *Università degli Studi di Napoli Federico II*
 - **Grade:** 110/110 cum laude
 - **Thesis:** Image processing for computer vision and deep learning: building detection from aerial imagery using deep convolutional neural network
-- **Focus:** Python, Tensorflow, Signal Processing, Computer Vision, Embedded Systems, Deep Learning
 
 ---
 
