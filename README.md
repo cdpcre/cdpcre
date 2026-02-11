@@ -17,10 +17,6 @@
 
 ---
 
-## 🎯 My favorite programming languages:
-- **Python** 🐍 (6+ years experience in ML/DL applications)
-- **C++** ⚡ (Embedded systems & real-time processing)
-
 ## 🤖 Machine Learning & Deep Learning Frameworks:
 ### Core ML/DL Tools:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -63,21 +59,6 @@
 - **Healthcare AI** - Predictive medicine and diagnostic assistance
 - **Computer Vision** - Real-time processing and accuracy optimization
 - **Edge AI & Embedded ML** - Pushing the boundaries of on-device intelligence
-
----
-
-## 📚 Currently Learning
-- 🔥 Advanced **Transformer architectures** for vision tasks
-- 🚀 **MLOps** best practices and deployment pipelines
-- 🧠 **WebApp** development to share models
-
----
-
-## 🎓 Education
-### 🧑‍🔬 **Master's Degree in Telecommunications Engineering**
-*Università degli Studi di Napoli Federico II*
-- **Grade:** 110/110 cum laude
-- **Thesis:** Image processing for computer vision and deep learning: building detection from aerial imagery using deep convolutional neural network
 
 ---
 
