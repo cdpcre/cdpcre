@@ -28,25 +28,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### Computer Vision & Signal Processing:
-- **OpenCV** - Object Detection, OCR, Image Processing
-- **YOLO** - Real-time Object Detection
-- **OCR Technologies** - Standard and custom OCR Neural Networks
-- **FMCW Radar** - Automotive Radar Signal Processing
-
-### Data Science Stack:
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-
-## 🔧 Embedded & Deployment Technologies:
-- **Embedded Platforms:** ARM
-- **Real-time Systems:** Edge AI, Embedded Linux
-- **Performance:** inference and latency time optimization
-
 ## 🛠️ Development Tools:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -79,9 +60,9 @@
 ---
 
 ## 🌟 Professional Interests
-- **Edge AI & Embedded ML** - Pushing the boundaries of on-device intelligence
 - **Healthcare AI** - Predictive medicine and diagnostic assistance
 - **Computer Vision** - Real-time processing and accuracy optimization
+- **Edge AI & Embedded ML** - Pushing the boundaries of on-device intelligence
 
 ---
 
