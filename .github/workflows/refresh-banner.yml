@@ -1,0 +1,52 @@
+name: Refresh banner
+
+# Auto-screenshot of https://cdpcre.github.io/ committed to this repo,
+# so the profile README banner stays up to date.
+on:
+  schedule:
+    - cron: "17 4 * * *" # daily, ~04:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/refresh-banner.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-banner
+  cancel-in-progress: true
+
+jobs:
+  screenshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install shot-scraper
+        run: |
+          pip install shot-scraper
+          shot-scraper install
+
+      - name: Take screenshot (1280x800, dark theme, wait for render)
+        run: |
+          shot-scraper "https://cdpcre.github.io/" \
+            -o banner.png \
+            --width 1280 --height 800 \
+            --javascript "document.documentElement.classList.add('dark')" \
+            --wait-for "document.body.innerText.includes('Crescenzo')" \
+            --wait 1500 \
+            --timeout 30000
+
+      - name: Commit banner if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh site banner screenshot"
+          file_pattern: banner.png
