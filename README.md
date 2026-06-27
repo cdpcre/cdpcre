@@ -1,5 +1,3 @@
 <div align="center">
-
-[![Visit my page](banner.png)](https://cdpcre.github.io/)
-
+  <a href="https://cdpcre.github.io/"><img src="banner.png" alt="Visit my page" /></a>
 </div>
