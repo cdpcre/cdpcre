@@ -5,7 +5,7 @@
   <p><b>Algorithm Engineer</b> · Computer Vision &amp; ML</p>
 
   <p>
-    <a href="https://cdpcre.github.io/">🌐 Website</a>
+    <a href="https://cdpcre.github.io/">🌐 Personal Website</a>
     &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/crescenzodepalma">💼 LinkedIn</a>
   </p>
